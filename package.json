@@ -9,10 +9,15 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "moment": "^2.24.0",
+    "p": "^0.2.0",
+    "pikaday": "^1.8.0",
     "vue": "^2.6.10",
+    "vue-knob-control": "^1.4.1",
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
+    "@enrian/vue-pikaday": "^1.0.3",
     "@vue/cli-plugin-babel": "^3.7.0",
     "@vue/cli-plugin-eslint": "^3.7.0",
     "@vue/cli-service": "^3.7.0",
